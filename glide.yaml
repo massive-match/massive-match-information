@@ -1,0 +1,3 @@
+package: github.com/dwladdimiroc/load-fcom-products
+import:
+- package: github.com/artonge/go-csv-tag
