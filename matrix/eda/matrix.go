@@ -5,10 +5,10 @@ import (
 )
 
 type Matrix struct {
-	Id         int    `xlsx:"0"`
-	Attr       string `xlsx:"1"`
-	Obs        string `xlsx:"2"`
-	Obligatory string `xlsx:"3"`
+	JotaID     string `json:"jota_id" xlsx:"0"`
+	Attr       string `json:"attr" xlsx:"1"`
+	Type       string `json:"type" xlsx:"2"`
+	OptionType string `json:"option_type" xlsx:"3"`
 }
 
 func ReadMatrix(path string) []Matrix {

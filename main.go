@@ -1,5 +1,11 @@
 package main
 
+import (
+	"github.com/massive-match/massive-match-information/matrix"
+)
+
 func main() {
-	Loadgit
+	matrix.LoadMatrix()
+	//categories.LoadRelationCategories()
+	//products.LoadProducts()
 }

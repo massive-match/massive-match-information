@@ -1,3 +1,4 @@
-package: github.com/dwladdimiroc/load-fcom-products
+package: github.com/massive-match/massive-match-information
 import:
-- package: github.com/artonge/go-csv-tag
+- package: github.com/tealeg/xlsx
+  version: ~1.0.3
