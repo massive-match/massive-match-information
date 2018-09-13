@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c65cffe-50f4-4b35-b48a-b1f590ff95e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/catogories/mlc-categories.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/categories/mlc-categories.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/matrix/matrix-svl.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/matrix/matrix-svl.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/products/fernapet_fal_web.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/products/fernapet_fal_web_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/products/skuPricesWeb.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glide.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/eda/jota.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/eda/list.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/eda/matrix.go" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/eda/matrix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/eda/related.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/matrix.go" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/matrix.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/eda/falabella_products.go" beforeDir="false" afterPath="$PROJECT_DIR$/products/eda/falabella_products.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/products.go" beforeDir="false" afterPath="$PROJECT_DIR$/products/products.go" afterDir="false" />
     </list>
@@ -76,7 +63,7 @@
     <session id="1546435767">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -85,6 +72,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="4" />
+          <entry key="gitignore" value="2" />
           <entry key="go" value="32" />
           <entry key="yaml" value="1" />
         </counts>
@@ -93,6 +81,7 @@
         <counts>
           <entry key="CSV" value="4" />
           <entry key="Go" value="32" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="YAML_EX" value="1" />
         </counts>
       </usages-collector>
@@ -100,6 +89,7 @@
         <counts>
           <entry key="csv" value="246" />
           <entry key="go" value="1078" />
+          <entry key="txt" value="19" />
           <entry key="yaml" value="13" />
         </counts>
       </usages-collector>
@@ -107,6 +97,7 @@
         <counts>
           <entry key="CSV" value="246" />
           <entry key="Go" value="1078" />
+          <entry key="PLAIN_TEXT" value="19" />
           <entry key="YAML_EX" value="13" />
         </counts>
       </usages-collector>
@@ -128,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#14#150#0" expanded="true" />
               </folding>
@@ -264,11 +255,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -312,12 +309,12 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24664225" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24664225" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,6 +335,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upgrade project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgrade project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/matrix/eda/related.go" />
@@ -425,10 +426,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#14#150#0" expanded="true" />
           </folding>
